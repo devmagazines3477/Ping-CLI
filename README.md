@@ -10,3 +10,6 @@ Run the makefile
 Run the program (./ping) with root permissions 
 
 Ex: sudo ./ping www.google.com
+The linux is a kernal
+i have content similar to your category, Kindly read it hope it will benificial for you thanks 
+https://sahasibloggers.com/how-to-block-ping-requests-in-linux/
